@@ -4,6 +4,4 @@ fun main(){
 
     println("This is first message");
     println("This is second message");
-
-    this is something bad
 }
